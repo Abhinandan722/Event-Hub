@@ -26,7 +26,7 @@ const Welcome = () => {
  //hide the on boarded
 navigation.navigate('sign_in');
     }else{
-  //show the onboarded
+  
 navigation.navigate('boarding_one');
 
     }
